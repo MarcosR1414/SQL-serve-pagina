@@ -14,7 +14,7 @@
     </div>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-8">
+            <div class="login-box">
                 <h2>Iniciar sesión</h2>
 
                 @if (isset($_GET['mensaje']))
